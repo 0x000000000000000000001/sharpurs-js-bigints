@@ -12,3 +12,6 @@ output.bak/
 /package-lock.json
 .purmeta/
 .DS_Store
+
+# Local scratch experiments
+/scratch.fsx
